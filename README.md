@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-03 14:26:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 00:20:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) ![](/assets/new.png)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
@@ -64,7 +65,6 @@
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
-- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -448,7 +448,7 @@
 </summary>
 
 
-- [2024-12-02-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490108&idx=1&sn=0bec47995422abff5453d6bb3d984c64&chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd) ![](/assets/new.png)  
+- [2024-12-02-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490108&idx=1&sn=0bec47995422abff5453d6bb3d984c64&chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd)  
 - [2024-09-27-纯-CSS-实现带tooltip的动态进度条](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490091&idx=1&sn=d6713c1e41823117aa7f88e071e8f566&chksm=97c679e4a0b1f0f2bed77daf544380ec9b15efe7e20a5024cdb1a491f01743e32bd6476b2eff#rd)  
 - [2024-09-23-CSS-现在终于支持高度-auto-过渡动画了](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490084&idx=1&sn=50025e590a4103e9dc30ea2fa5d7b355&chksm=97c679eba0b1f0fd4490df7d0557af2560ba0fe9f6c09883a1729da78358fd3f5df15e86dfa9#rd)  
 - [2024-09-18-CSS-实现带tooltip的slider](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490073&idx=1&sn=5f74919f3df24107c02faf4652daeb0b&chksm=97c679d6a0b1f0c045af15f70cf8afbbd869d31401dafd6d6c60d98bd76b44016db8f1921544#rd)  
