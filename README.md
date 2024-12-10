@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-06 02:20:48，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-11 00:20:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) ![](/assets/new.png)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
@@ -64,7 +65,6 @@
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
-- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715) ![](/assets/new.png)  
+- [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) ![](/assets/new.png)  
+- [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
 - [2024-11-29-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [2024-11-25-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)  
