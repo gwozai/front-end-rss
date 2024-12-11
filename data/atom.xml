@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-10T16:20:56.370Z</updated>
+    <updated>2024-12-11T16:21:00.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
+        <updated>2024-12-11T00:00:00.000Z</updated>
+        <published>2024-12-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621625&amp;idx=2&amp;sn=af676b5f746ba8de77cdd711645809df&amp;chksm=80225f38b755d62e4fb5bcc06f738b3cb20c5e3f225dc7120f12ca73e1ed8bcfb72b16d4901f#rd"/>
         <updated>2024-11-20T00:00:00.000Z</updated>
         <published>2024-11-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 分钟带你感受 CSS :has() 选择器的强大]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621614&amp;idx=2&amp;sn=aa644b8d45eabb7ba003e677034e0d5c&amp;chksm=80225f2fb755d639beeaf55229ab551e32f261ebd7bdd4ef716ad58dc119f833952819b89447#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621614&amp;idx=2&amp;sn=aa644b8d45eabb7ba003e677034e0d5c&amp;chksm=80225f2fb755d639beeaf55229ab551e32f261ebd7bdd4ef716ad58dc119f833952819b89447#rd"/>
-        <updated>2024-11-19T00:00:00.000Z</updated>
-        <published>2024-11-19T00:00:00.000Z</published>
     </entry>
 </feed>
