@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-17T14:15:41.769Z</updated>
+    <updated>2024-12-19T18:20:39.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A 2024 JavaScript retrospective]]></title>
+        <id>https://javascriptweekly.com/issues/717</id>
+        <link href="https://javascriptweekly.com/issues/717"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <published>2024-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A look back at Node's 2024]]></title>
         <id>https://nodeweekly.com/issues/560</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[巧用 CSS 实现高频出现的复杂怪状按钮]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499326&amp;idx=1&amp;sn=a76f45912567b1ce88ba4e024b60f49e&amp;chksm=ce269dc8f95114de3e319912b38333b402fb948f1f0cf8a3cd37be6bf77cfd48db13e40ce876#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499326&amp;idx=1&amp;sn=a76f45912567b1ce88ba4e024b60f49e&amp;chksm=ce269dc8f95114de3e319912b38333b402fb948f1f0cf8a3cd37be6bf77cfd48db13e40ce876#rd"/>
-        <updated>2024-11-20T00:00:00.000Z</updated>
-        <published>2024-11-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80人小团队，限时任务！NYPL如何用Next.js打造世界级数字图书馆？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525470&amp;idx=1&amp;sn=c93183f60d0d825f52476ccf0bf09a31&amp;chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525470&amp;idx=1&amp;sn=c93183f60d0d825f52476ccf0bf09a31&amp;chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd"/>
         <updated>2024-11-20T00:00:00.000Z</updated>
         <published>2024-11-20T00:00:00.000Z</published>
     </entry>
