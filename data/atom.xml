@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-29T16:17:21.783Z</updated>
+    <updated>2025-01-02T16:19:23.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -13,7 +13,14 @@
     <link rel="self" href="https://fed.chanceyu.com/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
-    <rights>All rights reserved 2024 by ChaneYu</rights>
+    <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <published>2025-01-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524109&amp;idx=1&amp;sn=27154b55ef3cc8811e4cca50142de52a&amp;chksm=f99299dccee510caae93d5ab45b6c57c05b74c6b0740692fa6ebe6935617ea158b73811ec15b#rd"/>
         <updated>2024-11-23T00:00:00.000Z</updated>
         <published>2024-11-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年最顶级的 React 生态玩法揭秘……]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516810&amp;idx=1&amp;sn=44e245d599d69e122604dfccde3e8bba&amp;chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516810&amp;idx=1&amp;sn=44e245d599d69e122604dfccde3e8bba&amp;chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd"/>
-        <updated>2024-11-21T00:00:00.000Z</updated>
-        <published>2024-11-21T00:00:00.000Z</published>
     </entry>
 </feed>
