@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-07T04:18:31.248Z</updated>
+    <updated>2025-01-07T18:21:41.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
         <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
         <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unflagged TypeScript support is just around the corner]]></title>
+        <id>https://nodeweekly.com/issues/561</id>
+        <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274260&amp;idx=1&amp;sn=02eeed90e4a91745f63d13215773b425&amp;chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&amp;scene=0#rd"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】JavaScript 的 Temporal 提案将如何改变日期/时间函数]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274256&amp;idx=1&amp;sn=d5d90445e5e270459f8a5f5f295c87b3&amp;chksm=bcddb296ae8273cc90a963969831845e2ad508963bf23f8f535a51ce5062b74257a52e9396a5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274256&amp;idx=1&amp;sn=d5d90445e5e270459f8a5f5f295c87b3&amp;chksm=bcddb296ae8273cc90a963969831845e2ad508963bf23f8f535a51ce5062b74257a52e9396a5&amp;scene=0#rd"/>
-        <updated>2024-11-24T00:00:00.000Z</updated>
-        <published>2024-11-24T00:00:00.000Z</published>
     </entry>
 </feed>
