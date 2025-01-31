@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-28T16:19:20.572Z</updated>
+    <updated>2025-01-31T18:20:32.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A WebAssembly compiler in 192 bytes]]></title>
+        <id>https://javascriptweekly.com/issues/721</id>
+        <link href="https://javascriptweekly.com/issues/721"/>
+        <updated>2025-01-31T00:00:00.000Z</updated>
+        <published>2025-01-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Things people get wrong about Electron]]></title>
         <id>https://nodeweekly.com/issues/564</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd"/>
-        <updated>2024-11-26T00:00:00.000Z</updated>
-        <published>2024-11-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3421期】vercel是如何做微前端迁移的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274265&amp;idx=1&amp;sn=38831d124f11aa352541dbe6f3c06206&amp;chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274265&amp;idx=1&amp;sn=38831d124f11aa352541dbe6f3c06206&amp;chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&amp;scene=0#rd"/>
         <updated>2024-11-26T00:00:00.000Z</updated>
         <published>2024-11-26T00:00:00.000Z</published>
     </entry>
