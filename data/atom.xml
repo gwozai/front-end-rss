@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-04T16:18:36.131Z</updated>
+    <updated>2025-02-06T14:14:06.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <published>2025-02-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
         <id>https://nodeweekly.com/issues/565</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Chrome 全面拥抱 AI ！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499348&amp;idx=1&amp;sn=aa32fbad227ad0a9289e32b930a0c044&amp;chksm=ce269da2f95114b45a26be3be1b38ccb49cdb937982ce3c772dffc00971e3ea62c0c948e1bf8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499348&amp;idx=1&amp;sn=aa32fbad227ad0a9289e32b930a0c044&amp;chksm=ce269da2f95114b45a26be3be1b38ccb49cdb937982ce3c772dffc00971e3ea62c0c948e1bf8#rd"/>
-        <updated>2024-11-26T00:00:00.000Z</updated>
-        <published>2024-11-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微前端集成优化：让所有子应用体积更小，加载更快]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524242&amp;idx=1&amp;sn=5d3f2b22e0d1885b53fa1d5dcabc5063&amp;chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524242&amp;idx=1&amp;sn=5d3f2b22e0d1885b53fa1d5dcabc5063&amp;chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd"/>
         <updated>2024-11-26T00:00:00.000Z</updated>
         <published>2024-11-26T00:00:00.000Z</published>
     </entry>
