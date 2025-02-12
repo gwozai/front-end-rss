@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-11T16:21:09.975Z</updated>
+    <updated>2025-02-12T14:15:28.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <published>2025-02-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端要想学好 NodeJs，这些性能监控指标可不能不会！！！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=1&amp;sn=1f35aad1221b84f51e5c9d9c7b69c715&amp;chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=1&amp;sn=1f35aad1221b84f51e5c9d9c7b69c715&amp;chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <published>2024-11-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[饿了么面试官：实现一下 Element-UI 官网的主题切换动画！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501216&amp;idx=1&amp;sn=4e6e1a6c17460fb233a19e7f58a5fce8&amp;chksm=ce45d031f9325927d9479bdd80fb135c05c4eb39575bed612fcccd7d8cb47bebfd1b63d0e9e0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501216&amp;idx=1&amp;sn=4e6e1a6c17460fb233a19e7f58a5fce8&amp;chksm=ce45d031f9325927d9479bdd80fb135c05c4eb39575bed612fcccd7d8cb47bebfd1b63d0e9e0#rd"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <published>2024-11-27T00:00:00.000Z</published>
     </entry>
