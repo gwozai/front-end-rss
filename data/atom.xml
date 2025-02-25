@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-25T08:21:11.917Z</updated>
+    <updated>2025-02-25T16:20:54.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
+        <id>https://nodeweekly.com/issues/567</id>
+        <link href="https://nodeweekly.com/issues/567"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <published>2025-02-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML permission元素和Permissions API简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[重磅！Vite 6.0 正式发布]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <published>2024-11-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动图展示 10 大 Git 命令，让你轻松掌握Git]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=2&amp;sn=7455918ea643dcf3265deefc37496566&amp;chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=2&amp;sn=7455918ea643dcf3265deefc37496566&amp;chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <published>2024-11-27T00:00:00.000Z</published>
     </entry>
