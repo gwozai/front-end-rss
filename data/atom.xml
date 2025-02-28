@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-25T16:20:54.193Z</updated>
+    <updated>2025-02-28T02:52:18.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -41,6 +41,13 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
         <updated>2025-02-10T00:00:00.000Z</updated>
         <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
+        <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vite 6.0 发布啦！​]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516840&amp;idx=1&amp;sn=8863c0eaf4765d7ca34ae67e1bacda4d&amp;chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516840&amp;idx=1&amp;sn=8863c0eaf4765d7ca34ae67e1bacda4d&amp;chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <published>2024-11-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重磅！Vite 6.0 正式发布]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <published>2024-11-27T00:00:00.000Z</published>
     </entry>
