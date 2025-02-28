@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-28T02:52:18.938Z</updated>
+    <updated>2025-02-28T16:20:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Doom for TypeScript types]]></title>
+        <id>https://javascriptweekly.com/issues/725</id>
+        <link href="https://javascriptweekly.com/issues/725"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <published>2025-02-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
         <id>https://nodeweekly.com/issues/567</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=2&amp;sn=ab76c1332d66d7e3be3b80a6a6ef3862&amp;chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&amp;scene=0#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 6.0 发布啦！​]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516840&amp;idx=1&amp;sn=8863c0eaf4765d7ca34ae67e1bacda4d&amp;chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516840&amp;idx=1&amp;sn=8863c0eaf4765d7ca34ae67e1bacda4d&amp;chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <published>2024-11-27T00:00:00.000Z</published>
     </entry>
 </feed>
