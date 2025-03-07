@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-05T16:26:43.967Z</updated>
+    <updated>2025-03-07T16:20:12.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The current state of JavaScript on the Web]]></title>
+        <id>https://javascriptweekly.com/issues/726</id>
+        <link href="https://javascriptweekly.com/issues/726"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <published>2025-03-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终于等到了，CSS offset-path全浏览器全支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何使用流式渲染技术提升用户体验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524303&amp;idx=1&amp;sn=0188766dfe875a55d2236a292e3ebf98&amp;chksm=f992991ecee510084072723b66eeef65ae0862ac40842ff8b0aca90cfb88bc1e941becce385a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524303&amp;idx=1&amp;sn=0188766dfe875a55d2236a292e3ebf98&amp;chksm=f992991ecee510084072723b66eeef65ae0862ac40842ff8b0aca90cfb88bc1e941becce385a#rd"/>
-        <updated>2024-11-28T00:00:00.000Z</updated>
-        <published>2024-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首个 Tailwind CSS v4.0 Beta 版发布，性能至上，专为现代 Web 设计！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524303&amp;idx=2&amp;sn=69df2d39605ff655894e3ac189acf5dc&amp;chksm=f992991ecee51008dd008f730fc5bad8ed90846134f464738d52fd7eb9a443afc68ae4d0dc05#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524303&amp;idx=2&amp;sn=69df2d39605ff655894e3ac189acf5dc&amp;chksm=f992991ecee51008dd008f730fc5bad8ed90846134f464738d52fd7eb9a443afc68ae4d0dc05#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
