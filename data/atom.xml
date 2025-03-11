@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-09T14:12:24.700Z</updated>
+    <updated>2025-03-11T16:21:55.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Another way to look inside your npm packages]]></title>
+        <id>https://nodeweekly.com/issues/569</id>
+        <link href="https://nodeweekly.com/issues/569"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS @supports规则又新增font-tech,font-format判断]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[必备！2025 开发 AI 应用 JS 工具库盘点]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd"/>
-        <updated>2024-11-28T00:00:00.000Z</updated>
-        <published>2024-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源了！跳槽一定用得上的前端项目源码！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
