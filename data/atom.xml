@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-21T16:21:01.377Z</updated>
+    <updated>2025-03-22T10:17:14.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -100,6 +100,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
+        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
         <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
         <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
@@ -188,6 +195,13 @@
         <link href="https://javascriptweekly.com/issues/718"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
+        <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
+        <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[搭建业务的性能优化指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537238&amp;idx=1&amp;sn=8e57dca84c4655fc900aa7a2b15f8cab&amp;chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537238&amp;idx=1&amp;sn=8e57dca84c4655fc900aa7a2b15f8cab&amp;chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd"/>
-        <updated>2024-11-29T00:00:00.000Z</updated>
-        <published>2024-11-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust赋能前端： 纯血前端将 Table 导出 Excel]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516848&amp;idx=1&amp;sn=44ceaed7ea2de389ddec46514862d712&amp;chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516848&amp;idx=1&amp;sn=44ceaed7ea2de389ddec46514862d712&amp;chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd"/>
-        <updated>2024-11-29T00:00:00.000Z</updated>
-        <published>2024-11-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】如何有效清除NPM和NPX缓存？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd"/>
         <updated>2024-11-29T00:00:00.000Z</updated>
         <published>2024-11-29T00:00:00.000Z</published>
     </entry>
