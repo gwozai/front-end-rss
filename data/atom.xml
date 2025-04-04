@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-01T16:20:50.512Z</updated>
+    <updated>2025-04-04T16:20:41.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
+        <id>https://javascriptweekly.com/issues/730</id>
+        <link href="https://javascriptweekly.com/issues/730"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <published>2025-04-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express 5.x enters the limelight]]></title>
         <id>https://nodeweekly.com/issues/572</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vite封装ts工具库并发布npm包]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=1&amp;sn=7a74a68ef998ab6cd66bcabc43dad567&amp;chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=1&amp;sn=7a74a68ef998ab6cd66bcabc43dad567&amp;chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd"/>
-        <updated>2024-11-30T00:00:00.000Z</updated>
-        <published>2024-11-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501242&amp;idx=1&amp;sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&amp;chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501242&amp;idx=1&amp;sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&amp;chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd"/>
         <updated>2024-11-30T00:00:00.000Z</updated>
         <published>2024-11-30T00:00:00.000Z</published>
     </entry>
