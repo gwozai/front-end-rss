@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-04T16:20:41.139Z</updated>
+    <updated>2025-04-06T14:14:45.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS EditContext API 简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/"/>
+        <updated>2025-04-06T00:00:00.000Z</updated>
+        <published>2025-04-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
         <id>https://javascriptweekly.com/issues/730</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Deno 起诉 Oracle！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=2&amp;sn=5af3099fc6c18232d1a06294da85f215&amp;chksm=f9929936cee51020eecc8a3b3051b56f35fc67ba1c92c5ac66f33e1c9f5a63ab602d21e07931#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=2&amp;sn=5af3099fc6c18232d1a06294da85f215&amp;chksm=f9929936cee51020eecc8a3b3051b56f35fc67ba1c92c5ac66f33e1c9f5a63ab602d21e07931#rd"/>
-        <updated>2024-11-30T00:00:00.000Z</updated>
-        <published>2024-11-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite封装ts工具库并发布npm包]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=1&amp;sn=7a74a68ef998ab6cd66bcabc43dad567&amp;chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524327&amp;idx=1&amp;sn=7a74a68ef998ab6cd66bcabc43dad567&amp;chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd"/>
         <updated>2024-11-30T00:00:00.000Z</updated>
         <published>2024-11-30T00:00:00.000Z</published>
     </entry>
