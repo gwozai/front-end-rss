@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-11T14:17:05.305Z</updated>
+    <updated>2025-04-14T14:17:49.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <published>2025-04-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Tauri and Electron]]></title>
         <id>https://javascriptweekly.com/issues/731</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274342&amp;idx=1&amp;sn=69e7efe4a66ac4de05d250a2a6f71063&amp;chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&amp;scene=0#rd"/>
         <updated>2024-12-02T00:00:00.000Z</updated>
         <published>2024-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 6.0 到底更新了啥玩意啊？？？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501254&amp;idx=1&amp;sn=28d5ed0b572a33898d775be1455e9362&amp;chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501254&amp;idx=1&amp;sn=28d5ed0b572a33898d775be1455e9362&amp;chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd"/>
-        <updated>2024-12-01T00:00:00.000Z</updated>
-        <published>2024-12-01T00:00:00.000Z</published>
     </entry>
 </feed>
