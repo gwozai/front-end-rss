@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-14T14:17:49.407Z</updated>
+    <updated>2025-04-15T14:17:42.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Another way to package Node apps into small executables]]></title>
+        <id>https://nodeweekly.com/issues/574</id>
+        <link href="https://nodeweekly.com/issues/574"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <published>2025-04-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS 如何模拟“真实”的进度条？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd"/>
-        <updated>2024-12-02T00:00:00.000Z</updated>
-        <published>2024-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3424期】Vite 6.0 发布了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274342&amp;idx=1&amp;sn=69e7efe4a66ac4de05d250a2a6f71063&amp;chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274342&amp;idx=1&amp;sn=69e7efe4a66ac4de05d250a2a6f71063&amp;chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&amp;scene=0#rd"/>
         <updated>2024-12-02T00:00:00.000Z</updated>
         <published>2024-12-02T00:00:00.000Z</published>
     </entry>
