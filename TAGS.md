@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-17 22:16:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-18 00:20:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -546,6 +546,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
+- [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
@@ -561,7 +562,6 @@
 - [【前端早读课】【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd)
 - [【前端早读课】【第3067期】Chrome-117-DevTools新功能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=1&sn=ab9d2c0aa36b2346f71f0b1acdbebf94&chksm=bd48c25d8a3f4b4b19245fe4c7b39e9843ecad41a47067aa031a59482783d78fd4225780d29b#rd)
 - [【前端早读课】【第3061期】新一代-Web-预渲染技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=1&sn=c4b9bbe03ea1beeef282994a87db08cc&chksm=bd48c2e88a3f4bfed2737ec4574a8a6e84a08dafeb6c2c248ad45327ab63d65b398e6709d0b3#rd)
-- [【前端早读课】【第3051期】浏览器也拥有了原生的-“时间切片”-能力！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265683&idx=1&sn=c3c895fc9d30dde4227b6dbf2f3da051&chksm=bd48c3178a3f4a0120724da4e9b0296f5b249a9987d80b6350346a5643e6ebde8492ac91203f#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
