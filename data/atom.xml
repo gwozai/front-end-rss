@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-09-17T14:40:23.352Z</updated>
+    <updated>2026-09-17T19:31:07.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS rex、rlh、ric等根家族单位简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/"/>
+        <updated>2026-09-17T00:00:00.000Z</updated>
+        <published>2026-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 26.9 turns on FFI by default]]></title>
+        <id>https://nodeweekly.com/issues/641</id>
+        <link href="https://nodeweekly.com/issues/641"/>
         <updated>2026-09-17T00:00:00.000Z</updated>
         <published>2026-09-17T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/"/>
         <updated>2026-05-06T00:00:00.000Z</updated>
         <published>2026-05-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix 3 drops React]]></title>
-        <id>https://javascriptweekly.com/issues/784</id>
-        <link href="https://javascriptweekly.com/issues/784"/>
-        <updated>2026-05-05T00:00:00.000Z</updated>
-        <published>2026-05-05T00:00:00.000Z</published>
     </entry>
 </feed>
